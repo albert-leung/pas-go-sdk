@@ -1,2 +1,2 @@
 # vault-go-sdk
-Golang SDK for vault
+Skeleton Golang SDK for vault 
